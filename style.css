@@ -1,39 +1,8 @@
-body {
-    background-color: #f3f3f3;
+body{
+    background-color: bisque;
 }
 
-
-p {
-    background-color: red;
-}
-
-.enlace {    
-    text-decoration: none;
-    background-color: #1877f2;
-    border: none;
-    border-radius: 6px;
-    font-size: 20px;
-    line-height: 48px;
-    width: 332px;
-    color: #fff;
-}
-
-.enlace:hover {
-    background-color: #a9c2e3;
-    color: #000;
-}
-
-
-
-
-#parrrafo1 {
-    background-color: yellow;
-}
-
-.borde {
-    background-color: blue;
-}
-
-.borde {
-    background-color: green;
+div {
+    background-color: rgb(201, 255, 243);
+    border: 1px solid #f0f;
 }
