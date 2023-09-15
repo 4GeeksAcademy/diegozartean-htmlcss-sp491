@@ -7,15 +7,13 @@ p {
     background-color: red;
 }
 
-.enlace {
-    padding: 15px 30px;
+.enlace {    
     text-decoration: none;
     background-color: #1877f2;
     border: none;
     border-radius: 6px;
     font-size: 20px;
     line-height: 48px;
-    /* padding: 0 16px; */
     width: 332px;
     color: #fff;
 }

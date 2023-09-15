@@ -6,11 +6,11 @@
 
 
     /* flex styles*/
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-    /* justify-content: space-around; */
-    /* align-items: flex-start; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
 .element{
